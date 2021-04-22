@@ -2,7 +2,7 @@
 
 LED Array Controller
 
-This is a program written on the Arduino platform for the ESP32. It allows to control a WS2811 LED matrix through a Bluetooth connection.
+This is a program written on the Arduino platform for the ESP32. It allows to control a WS2811 LED matrix with a Bluetooth connection.
 Each LED is controlled individually, allowing to indicate its position and RGB color.
 
 Also included is an application made with MIT App Inventor, which allows to use all these functions. 
